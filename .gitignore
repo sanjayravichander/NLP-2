@@ -1,0 +1,10 @@
+/app.py
+/gender_encoders.pkl
+/geo_encoders.pkl
+/logs
+/prediction.ipynb
+/requirements.txt
+/research.ipynb
+/scaler_df.pkl
+/simple_ann.ipynb
+/venv
